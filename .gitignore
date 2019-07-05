@@ -1,0 +1,4 @@
+#ignore the .build folder
+.build
+#ignore the teste folder
+teste
